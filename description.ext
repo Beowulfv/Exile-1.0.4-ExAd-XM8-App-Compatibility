@@ -1,0 +1,4 @@
+class CfgFunctions
+{
+	#include "xm8Apps\CfgFunctions.cpp"
+};
